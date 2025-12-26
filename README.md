@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolás Muñoz (NIMM) 👋
+# Hi there, I'm Nicolás Ignacio Muñoz Machicao (NIMM) 👋
 ### Structural & Geotechnical Engineer | Computational Design | BIM & AI Specialist
 
 <p align="left">
