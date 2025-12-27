@@ -38,7 +38,7 @@ I am a **Structural and Geotechnical Engineer** currently completing my Master's
 ### 🧪 [Geotech-AI Optimization](https://github.com/Comp-BIM-GeoStruct-AI-NIMM/Geotech-AI-Optimization)
 *Application developed in Python (PyQt5) using K-Means clustering to optimize borehole locations based on soil parameters.*
 
-### 🏛️ [Parametric Vault Modeler](https://github.com/Comp-BIM-GeoStruct-AI-NIMM/Structural-Engineering-Archive)
+### 🏛️ [Parametric for Box, poligonal and Arch Culvert Modeler](https://github.com/Comp-BIM-GeoStruct-AI-NIMM/Structural-Engineering-Archive)
 *VBA-based automation for generating complex vault geometries, including 15+ automated load cases and combinations.*
 
 ### 📉 [Structural Interaction Lab](https://github.com/Comp-BIM-GeoStruct-AI-NIMM/Structural-Engineering-Archive)
